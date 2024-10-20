@@ -1,6 +1,6 @@
 # Implementation-of-LASSO-method
 
-Implementation of Lasso method using the "swiss" dataset, which contains information about socioeconomic indicators and fertility for each of 47 french-speaking provinces of Switzerland at about 1888.
+Implementation of Lasso method in R using the "swiss" dataset, which contains information about socioeconomic indicators and fertility for each of 47 french-speaking provinces of Switzerland at about 1888.
 
 **Fertility**	        ‘common standardized fertility measure’
 
